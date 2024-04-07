@@ -4,3 +4,6 @@
 [submodule "backQuizMatrixV1"]
 	path = backQuizMatrixV1
 	url = https://github.com/Mrec2/QuizMatrix-backend.git
+[submodule "backQuizMatrixV2"]
+	path = backQuizMatrixV2
+	url = https://github.com/Mrec2/QuizMatrix-backendV2.git
