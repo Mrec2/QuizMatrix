@@ -1,0 +1,13 @@
+/*
+
+# Excepto los archivos de configuración de Git
+!.gitignore
+!.gitmodules
+
+# Y excepto los directorios de los submódulos
+!backQuizMatrixV1/
+!backQuizMatrixV2/
+!frontQuizMatrix/
+
+
+/.metadata/
